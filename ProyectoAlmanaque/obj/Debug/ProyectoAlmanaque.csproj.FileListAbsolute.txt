@@ -1,0 +1,14 @@
+C:\Users\Marilyn\source\repos\ProyectoAlmanaque\ProyectoAlmanaque\bin\Debug\ProyectoAlmanaque.exe.config
+C:\Users\Marilyn\source\repos\ProyectoAlmanaque\ProyectoAlmanaque\bin\Debug\ProyectoAlmanaque.exe
+C:\Users\Marilyn\source\repos\ProyectoAlmanaque\ProyectoAlmanaque\bin\Debug\ProyectoAlmanaque.pdb
+C:\Users\Marilyn\source\repos\ProyectoAlmanaque\ProyectoAlmanaque\obj\Debug\ProyectoAlmanaque.csproj.CoreCompileInputs.cache
+C:\Users\Marilyn\source\repos\ProyectoAlmanaque\ProyectoAlmanaque\obj\Debug\ProyectoAlmanaque.exe
+C:\Users\Marilyn\source\repos\ProyectoAlmanaque\ProyectoAlmanaque\obj\Debug\ProyectoAlmanaque.pdb
+C:\Users\Marilyn\source\repos\ProyectoAlmanaque\ProyectoAlmanaque\obj\Debug\ProyectoAlmanaque.csprojResolveAssemblyReference.cache
+F:\Robinson\Escritorio\Nueva carpeta\ProyectoAlmanaque-master\ProyectoAlmanaque\bin\Debug\ProyectoAlmanaque.exe.config
+F:\Robinson\Escritorio\Nueva carpeta\ProyectoAlmanaque-master\ProyectoAlmanaque\bin\Debug\ProyectoAlmanaque.exe
+F:\Robinson\Escritorio\Nueva carpeta\ProyectoAlmanaque-master\ProyectoAlmanaque\bin\Debug\ProyectoAlmanaque.pdb
+F:\Robinson\Escritorio\Nueva carpeta\ProyectoAlmanaque-master\ProyectoAlmanaque\obj\Debug\ProyectoAlmanaque.csprojAssemblyReference.cache
+F:\Robinson\Escritorio\Nueva carpeta\ProyectoAlmanaque-master\ProyectoAlmanaque\obj\Debug\ProyectoAlmanaque.csproj.CoreCompileInputs.cache
+F:\Robinson\Escritorio\Nueva carpeta\ProyectoAlmanaque-master\ProyectoAlmanaque\obj\Debug\ProyectoAlmanaque.exe
+F:\Robinson\Escritorio\Nueva carpeta\ProyectoAlmanaque-master\ProyectoAlmanaque\obj\Debug\ProyectoAlmanaque.pdb
